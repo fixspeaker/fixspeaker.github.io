@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fixspeaker.github.io/sitemap.xml
